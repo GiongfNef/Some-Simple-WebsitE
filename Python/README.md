@@ -1,11 +1,11 @@
 ## Login system project in Python with MySql database  
 ![alt text](https://github.com/GiongfNef/Some-simple-website/blob/main/Python/demo.jpg)  
   
-###Register
+### Register
 ![alt text](https://github.com/GiongfNef/Some-simple-website/blob/main/Python/register.jpg)  
    
-###Login
+### Login
 ![alt text](https://github.com/GiongfNef/Some-simple-website/blob/main/Python/login.jpg)  
     
-###Database
+### Database
 ![alt text](https://github.com/GiongfNef/Some-simple-website/blob/main/Python/database.jpg)  
