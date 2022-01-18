@@ -1,2 +1,2 @@
-﻿## Login system project in python with MySql database
+﻿## Login system project in Python with MySql database
 
