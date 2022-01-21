@@ -1,5 +1,5 @@
 ## Login system project in Python with MySql database   
-#### note: i used flask for this project, so i can't host a python application on Github pages. Do you have any solutions for [this](https://stackoverflow.com/questions/23807039/flask-app-on-github-pages) ?  
+#### Note: I used flask for this project, so i can't host a python application on Github pages. Do you have any solutions for [this](https://stackoverflow.com/questions/23807039/flask-app-on-github-pages) ?  
 ### Demo: 
 ![alt text](https://github.com/GiongfNef/Some-simple-website/blob/main/Python/demo.jpg)  
   
