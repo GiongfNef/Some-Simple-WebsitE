@@ -4,7 +4,7 @@
 ![alt text](https://github.com/GiongfNef/Some-Simple-WebsitEs/blob/main/PHP/Image/login.jpg)  
   
 ### Register
-![alt text](https://github.com/GiongfNef/Some-Simple-WebsitEs/blob/main/PHP/Image/register.jpg)  
+![alt text](https://github.com/GiongfNef/Some-Simple-WebsitEs/blob/main/PHP/Image/signup.jpg)  
    
 ### Index
 ![alt text](https://github.com/GiongfNef/Some-Simple-WebsitEs/blob/main/PHP/Image/index.jpg)  
