@@ -11,3 +11,7 @@
     
 ### Database
 ![alt text](https://github.com/GiongfNef/Some-simple-website/blob/main/Python/database.jpg)  
+set up  
+set FLASK_APP=main.py  
+set FLASK_DEBUG=1  
+flask run
